@@ -1,3 +1,3 @@
 # instakids
 * bonjoir
-* aurejoir*
+* aurejoir
